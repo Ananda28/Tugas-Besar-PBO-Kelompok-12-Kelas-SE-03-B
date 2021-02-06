@@ -1,6 +1,7 @@
 # Tugas-Besar-PBO-Kelompok-12-Kelas-SE-03-B
 ![enter image description here](https://pmb.ittelkom-pwt.ac.id/wp-content/uploads/sites/2/2019/10/logo-ittp.png)
 # Selamat Datang !
+# *Aplikasi Pemesanan Tiket Kereta Api*
 Hallo! Perkenalkan Kami dari **Kelompok 12**  dengan Anggota :
 |        NAMA         |   NIM  |
 |---------------------|--------|
