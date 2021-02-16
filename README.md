@@ -13,10 +13,18 @@ Hallo! Perkenalkan Kami dari **Kelompok 12**  dengan Anggota :
 ![enter image description here](https://iili.io/fuuknS.png)
 
 ## Gambaran Umum Aplikasi
-Program Aplikasi Pemesanan Tiket Kereta Api merupakan sebuah pemrogram untuk memesan Tiket Kereta Api. Program ini ditujukan untuk memudahkan Pengguna dalam memesan Tiket tanpa perlu antre ditambah bisa memesan dari jauh-jauh hari sebelum keberangkatan, dan pengguna cukup menunjukkan tiket Kereta Api pada laman cetak tiket  kepada petugas Kereta Api .
+Program Aplikasi Pemesanan Tiket Kereta Api merupakan program untuk pemesanan Tiket Kereta Api. Program ini ditunjukkan untuk memudahkan para Pengguna dalam pemesanan Tiket tanpa perlu mengantre apalagi dapat memesan dari jauh-jauh hari sebelum keberangkatan,sehingga pengguna tidak perlu khawatir akan kehabisan tiket dan nantinya pengguna cukup menunjukkan tiket Kereta Api pada laman cetak tiket  kepada petugas Kereta Api . Program ini menggunakan konsep OOP dengan bahasa Pemrograman JavaScript.
+
+Implementasi OOP Javascript pada program ini :
+Constructor pada class penumpang
+Objek penumpang pada method pesan tiket
+Prototype pada edit tiket dan ganti
 
 ## Cara Penggunaan Aplikasi
-- Pertama, Pengguna dapat memilih menu Pesan Tiket kemudian Masukkan No Nik, Nama, Tanggal Lahir, Tanggal Pesan, Asal, Tujuan, dan Posisi Tempat Duduk
+- Install Exstension Code Runner (apabila belum tersedia extension Code Runner)
+- Lakukan install Package pada terminal dengan perintah npm install -prompt sync
+- Run program dengan perintah node Program_Pemesanan_TKereta.js
+- setelah di run, Pertama, Pengguna dapat memilih menu Pesan Tiket kemudian Masukkan No Nik, Nama, Tanggal Lahir, Tanggal Pesan, Asal, Tujuan, dan Posisi Tempat Duduk
 - Kedua, silahkan melakukan Pembayaran kemudian Masukkan No Penumpang, Jumlah Penumpang dan Kategori
 - ketiga, apabila terdapat kesalahan pada data silahkan pilih menu Edit Tiket dan mengisi data seperti tampilan menu pesan tiket
 - keempat, silahkan melakukan Cetak Tiket sebagai Registrasi Keberangkatan
