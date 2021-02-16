@@ -3,11 +3,11 @@
 # Selamat Datang !
 # *Aplikasi Pemesanan Tiket Kereta Api*
 Hallo! Perkenalkan Kami dari **Kelompok 12**  dengan Anggota :
-|        NAMA         |   NIM  |
-|---------------------|--------|
-|NISRINA EKA SALSABILA|19104037|
-|ANANDA AULIA RIZKY   |19104053|
-|FADLAN RAKA SATURA   |19104072|
+|        NAMA         |   NIM  | 	    	KONTRIBUSI     |
+|---------------------|--------|----------------------|
+|NISRINA EKA SALSABILA|19104037| CLASS DIAGRAM        |
+|ANANDA AULIA RIZKY   |19104053| CODING PROGRAM 	     |
+|FADLAN RAKA SATURA   |19104072| EDIT VIDEO & PROGRAM |
 
 ## Class Diagram
 ![enter image description here](https://iili.io/fuuknS.png)
