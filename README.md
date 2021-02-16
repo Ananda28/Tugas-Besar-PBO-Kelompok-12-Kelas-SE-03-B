@@ -15,10 +15,10 @@ Hallo! Perkenalkan Kami dari **Kelompok 12**  dengan Anggota :
 ## Gambaran Umum Aplikasi
 Program Aplikasi Pemesanan Tiket Kereta Api merupakan program untuk pemesanan Tiket Kereta Api. Program ini ditunjukkan untuk memudahkan para Pengguna dalam pemesanan Tiket tanpa perlu mengantre apalagi dapat memesan dari jauh-jauh hari sebelum keberangkatan,sehingga pengguna tidak perlu khawatir akan kehabisan tiket dan nantinya pengguna cukup menunjukkan tiket Kereta Api pada laman cetak tiket  kepada petugas Kereta Api . Program ini menggunakan konsep OOP dengan bahasa Pemrograman JavaScript.
 
-Implementasi OOP Javascript pada program ini :
-Constructor pada class penumpang
-Objek penumpang pada method pesan tiket
-Prototype pada edit tiket dan ganti
+## Implementasi OOP Javascript pada program ini :
+ - Constructor pada class penumpang 
+ - Objek penumpang pada method pesan tiket 
+ - Prototype pada edit tiket dan ganti
 
 ## Cara Penggunaan Aplikasi
 - Install Exstension Code Runner (apabila belum tersedia extension Code Runner)
