@@ -3,7 +3,7 @@
 # Selamat Datang !
 # *Aplikasi Pemesanan Tiket Kereta Api*
 Hallo! Perkenalkan Kami dari **Kelompok 12**  dengan Anggota :
-|        NAMA         |   NIM  | 	    	KONTRIBUSI     |
+|        NAMA         |   NIM  | 	      TUGAS         |
 |---------------------|--------|----------------------|
 |NISRINA EKA SALSABILA|19104037| CLASS DIAGRAM        |
 |ANANDA AULIA RIZKY   |19104053| CODING PROGRAM 	     |
